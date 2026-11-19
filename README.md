@@ -2,7 +2,7 @@
 
 A small TCP connect port scanner written in Python, using only the standard library.
 
-I'm building it step by step as part of my cybersecurity learning path, to understand what tools like nmap do underneath. It isn't meant to replace them.
+I'm building it step by step as I learn, to understand what tools like nmap do underneath. It isn't meant to replace them.
 
 ## Features
 
